@@ -1,0 +1,26 @@
+{
+  "name": "libphonenumber-utils",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/utils.js",
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tepez/libphonenumber-utils.git"
+  },
+  "author": "Tom Tepez Yam <tomyam1@gmail.com> (https://github.com/tepez)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tepez/libphonenumber-utils/issues"
+  },
+  "homepage": "https://github.com/tepez/libphonenumber-utils#readme",
+  "dependencies": {
+    "google-libphonenumber": "^1.1.0",
+    "lodash.snakecase": "^4.1.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
